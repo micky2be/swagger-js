@@ -1,0 +1,22 @@
+{
+  "name": "swagger-js",
+  "version": "2.1.4",
+  "scripts": [
+    "browser/swagger-client.js"
+  ],
+  "main": "browser/swagger-client.js",
+  "description": "swagger-client is a javascript client for use with swaggering APIs.",
+  "authors": [ "Tony Tam <fehguy@gmail.com>", "jcscoobyrs@gmail.com" ],
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/swagger-api/swagger-js.git"
+  },
+  "homepage": "http://swagger.io",
+  "keywords": [
+    "swagger",
+    "client",
+    "JavaScript",
+    "REST"
+  ]
+}
